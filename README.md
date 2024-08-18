@@ -1,10 +1,11 @@
-
-
-<h2 align="center">Hello World, I'm Jefter!</h2>
+<h2 align="center">Olá eu sou o Jefter!</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,twitter" />
+  <a href="https://www.linkedin.com/in/jefter-r-x/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://x.com/JefterRX">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
@@ -19,14 +20,14 @@
 
 
 
-<h2 align="center">My Stacks:</h2>
+<h2 align="center">Minha Stack:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,py,go,ts,docker,cloudflare,discord" />
   </a>
 </p>
 
-<h2 align="center">🎮 When I'm AFK:</h2>
+<h2 align="center">🎮 Quanto estou AFK:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
