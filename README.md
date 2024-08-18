@@ -1,10 +1,10 @@
 <h2 align="center">Olá eu sou o Jefter!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jefter-r-x/">
+  <a href="https://www.linkedin.com/in/jefter-r-x/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   <a href="https://x.com/JefterRX">
+   <a href="https://x.com/JefterRX" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
