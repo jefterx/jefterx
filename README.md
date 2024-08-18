@@ -1,7 +1,6 @@
 
 
-
-<h2 align="center">Olá, eu sou Jefter !</h2>
+<h2 align="center">Hello World, I'm Jefter!</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,7 +8,16 @@
   </a>
 </p>
 
-![Jefterx GitHub stats](https://github-readme-stats.vercel.app/api?username=jefterx&show_icons=true&theme=radical)
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jefterx&theme=radical" />
+ </a>
+ <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefterx&layout=compact&langs_count=8&card_width=320&theme=radical" />
+ </a>
+</p>
+
+
 
 <h2 align="center">My Stacks:</h2>
 <p align="center">
@@ -18,7 +26,7 @@
   </a>
 </p>
 
-<h2 align="center">🎮 Quando estou AFK:</h2>
+<h2 align="center">🎮 When I'm AFK:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
