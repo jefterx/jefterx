@@ -4,10 +4,11 @@
   <a href="https://www.linkedin.com/in/jefter-r-x/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   <a href="https://x.com/JefterRX" target="_blank">
+  <a href="https://x.com/JefterRX" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
 
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
