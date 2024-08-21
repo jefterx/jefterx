@@ -1,3 +1,4 @@
+
 <h2 align="center">Olá eu sou o Jefter!</h2>
 
 <p align="center">
@@ -24,7 +25,7 @@
 <h2 align="center">Minha Stack:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,py,go,ts,docker,cloudflare,discord" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,py,go,ts,flutter,docker,cloudflare,discord" />
   </a>
 </p>
 
